@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro D. Garcia Lopez - aka [LorryDriveloper](http://www.lorrydriveloper.com) 👋 
 ## Working at [OPOP MEDIA](https://github.com/OPOP-MEDIA) as [OPOP-PEDRO](https://github.com/OPOP-Pedro) 💻.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lorrydriveloper&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lorrydrivelopers&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorrydriveloper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
